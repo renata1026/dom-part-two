@@ -1,0 +1,29 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+h2 {
+  color: #000;
+  font-size: 2rem;
+  margin-bottom: 10px 0;
+}
+.blue {
+  background-color: blue;
+}
+
+ul {
+  padding-left: 0;
+}
+li {
+  list-style: none;
+}
+
+p {
+  margin-bottom: 10px;
+}
